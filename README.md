@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ☁️ Hey there, I'm Awnish! 👋
 
 I am a Cloud Infrastructure Engineer and an aspiring DevOps Engineer passionate about building resilient, secure, and scalable cloud systems. Currently working as a Cloud Infrastructure Engineer, my daily focus centers on automating infrastructure, optimizing container workflows, and bridging the gap between development teams and production environments. My journey into the cloud ecosystem is driven by hands-on engineering—from designing high-availability AWS VPC architectures and managing Kubernetes (AWS EKS) clusters, to building automated GitHub Actions workflows coupled with ArgoCD for zero-downtime GitOps deployments. I actively focus on crafting lightweight, multi-stage Docker builds, embedding automated Trivy and SAST security scanning directly into pipelines, and diagnosing real-world container and cross-repository sync failures to ensure cluster reliability.
@@ -6,7 +6,7 @@ I am a Cloud Infrastructure Engineer and an aspiring DevOps Engineer passionate 
 Recently, I built an end-to-end multi-service deployment pipeline on AWS EKS featuring shift-left security, dynamic container registry updates to GHCR, and declarative GitOps synchronization with ArgoCD. My core toolkit includes AWS (EKS, VPC, EC2, IAM), Docker, Kubernetes, GitHub Actions, ArgoCD, Trivy, Prometheus, and Grafana.
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/authwall?trkInfo=AQFsa0Ij1XlH0QAAAaCw03BQu5Ah7ZoE8vcO6yYhhG4CxzhoRPVss3_rVx0ulqmhm6t3T4r2tsWKLrFTv4q9Pl8mz84BEVlDtfQZ4Ql1-7lYWS_lMxa_X8KzIYplf2aopDL4H40=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fawnish-kumar-722a2a1b6%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarawnish840@gmail.com) 
 
 # 💻 Tech Stack:
